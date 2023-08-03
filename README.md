@@ -1,0 +1,1 @@
+This is a sample CMakeLists.txt for a C++ project
